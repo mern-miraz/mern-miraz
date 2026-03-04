@@ -1,51 +1,95 @@
-### Hi there 👋, I'm Miraz
-#### MERN Stack Developer | Full-Stack Web Developer
+<h1 align="center">Hi 👋, I'm Miraz</h1>
+<h3 align="center">MERN Stack Developer | Full-Stack Web Developer</h3>
 
-I'm a **Full-Stack Developer** from **Bangladesh**, specializing in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. I build **scalable, responsive, and user-friendly web applications**.
+<p align="center">
+  Passionate Full-Stack Developer from <b>Bangladesh 🇧🇩</b><br/>
+  I build scalable, high-performance, and user-friendly web applications using modern technologies.
+</p>
 
----
-
-### 🛠 Skills
-**Frontend:** `React.js` | `JavaScript (ES6+)` | `HTML5` | `CSS3` | `TailwindCSS` | `DaisyUI`  
-**Backend:** `Node.js` | `Express.js` | `REST APIs` | `MongoDB` | `Firebase`  
-**Tools:** `Git & GitHub` | `VS Code` | `Postman` | `Netlify` | `Vercel`  
-
----
-
-### 🚀 Current Focus
-- 🔭 Enhancing my **GitHub profile & personal projects**  
-- 🌱 Learning **advanced backend development & system design**  
-- 👯 Open to collaboration on **full-stack web development projects**  
-
----
-
-### 💻 Selected Projects
-- **Food Delivery App** – JavaScript | Order management system  
-- **Mini Financial System (MFS)** – JavaScript | Transaction handling  
-- **Job Portal** – React.js, Firebase | Multi-role platform  
-
-[**Explore all projects →**](https://github.com/mern-miraz)  
-
----
-
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mern-miraz&theme=dark" alt="Streak Stats" />
+<p align="center">
+  <img src="https://img.shields.io/github/followers/mern-miraz?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/mern-miraz?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/mern-miraz?style=for-the-badge" />
 </p>
 
 ---
 
-### 📫 Connect with me
-<div align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://github.com/mern-miraz" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/github/white" width="24" height="24" style="vertical-align: middle;" /> GitHub
+## 🚀 About Me
+
+- 💻 Full-Stack Developer specializing in **MERN Stack**
+- 🌱 Currently learning **Advanced Backend Architecture & System Design**
+- 🔭 Building real-world, production-ready projects
+- 🤝 Open to collaboration on **Full-Stack Applications**
+- ⚡ Strong focus on clean, maintainable & scalable code
+
+---
+
+## 🛠 Tech Stack
+
+### 💡 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
+
+### ⚙ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+| Project | Description | Tech |
+|----------|------------|------|
+| 🍔 **Food Delivery App** | Order management, discount system & reviews | JavaScript |
+| 💰 **Mini Financial System (MFS)** | Transaction & balance management system | JavaScript |
+| 💼 **Job Portal** | Multi-role job marketplace platform | React.js, Firebase |
+
+🔗 **Explore All Projects:**  
+👉 https://github.com/mern-miraz
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=mern-miraz&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+
+
+<p align="center">
+
+
+  <!-- Facebook Button -->
+  <a href="https://www.facebook.com/mern.miraz" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" 
+      alt="Facebook"
+    />
   </a>
-  
-  <a href="https://www.linkedin.com/in/mern-miraz/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/linkedin/white" width="24" height="24" style="vertical-align: middle;" /> LinkedIn
+
+  <!-- LinkedIn Button -->
+  <a href="https://www.linkedin.com/in/mern-miraz/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
   </a>
-  
-  <a href="https://www.facebook.com/mern.miraz" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/facebook/white" width="24" height="24" style="vertical-align: middle;" /> Facebook
-  </a>
-</div>
+</p>
+---
+
+<p align="center">
+  ⭐ <b>Miraz</b> — Building Modern Web Experiences
+</p>
