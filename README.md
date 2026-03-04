@@ -42,18 +42,40 @@ Check all projects here: [GitHub Repositories](https://github.com/mern-miraz)
 ---
 
 ### 📫 Connect with me
-<p align="left">
-  <a href="https://github.com/mern-miraz" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="40" style="margin-right:10px;"/>
+<p align="left" style="display: flex; gap: 15px;">
+  <a href="https://github.com/mern-miraz" target="_blank" style="display: inline-block; transition: transform 0.2s;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="40" 
+         style="filter: invert(0%);" 
+         onmouseover="this.style.transform='scale(1.2)';" 
+         onmouseout="this.style.transform='scale(1)';"/>
   </a>
-  <a href="https://www.linkedin.com/in/mern-miraz/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="40" style="margin-right:10px;"/>
+
+  <a href="https://www.linkedin.com/in/mern-miraz/" target="_blank" style="display: inline-block; transition: transform 0.2s;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="40" 
+         style="filter: invert(0%);" 
+         onmouseover="this.style.transform='scale(1.2)';" 
+         onmouseout="this.style.transform='scale(1)';"/>
   </a>
-  <a href="https://www.facebook.com/mern.miraz" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" width="40" style="margin-right:10px;"/>
+
+  <a href="https://www.facebook.com/mern.miraz" target="_blank" style="display: inline-block; transition: transform 0.2s;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" width="40" 
+         style="filter: invert(0%);" 
+         onmouseover="this.style.transform='scale(1.2)';" 
+         onmouseout="this.style.transform='scale(1)';"/>
   </a>
 </p>
 
+<!-- Dark mode support for GitHub README -->
+<style>
+@media (prefers-color-scheme: dark) {
+  img[alt="GitHub"],
+  img[alt="LinkedIn"],
+  img[alt="Facebook"] {
+    filter: invert(100%);
+  }
+}
+</style>
+
 ---
 
-> 💡 **Tip:** Keep this README updated with new projects, skills, and contributions to impress recruiters and collaborators.
+
