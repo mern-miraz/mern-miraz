@@ -42,39 +42,25 @@ Check all projects here: [GitHub Repositories](https://github.com/mern-miraz)
 ---
 
 ### 📫 Connect with me
-<p align="left" style="display: flex; gap: 15px;">
-  <a href="https://github.com/mern-miraz" target="_blank" style="display: inline-block; transition: transform 0.2s;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="40" 
-         style="filter: invert(0%);" 
-         onmouseover="this.style.transform='scale(1.2)';" 
-         onmouseout="this.style.transform='scale(1)';"/>
+<div style="display: flex; gap: 10px; background-color: #f4f4f4; padding: 10px 20px; border-radius: 50px; width: fit-content; border: 1px solid #ddd; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+
+  <a href="https://github.com/mern-miraz" target="_blank" style="display: flex; align-items: center; text-decoration: none; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="30" style="filter: invert(0%);"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/mern-miraz/" target="_blank" style="display: inline-block; transition: transform 0.2s;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="40" 
-         style="filter: invert(0%);" 
-         onmouseover="this.style.transform='scale(1.2)';" 
-         onmouseout="this.style.transform='scale(1)';"/>
+  <div style="width: 1px; background-color: #ccc; margin: 5px 0;"></div>
+
+  <a href="https://www.linkedin.com/in/mern-miraz/" target="_blank" style="display: flex; align-items: center; text-decoration: none; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="30" style="filter: invert(0%);"/>
   </a>
 
-  <a href="https://www.facebook.com/mern.miraz" target="_blank" style="display: inline-block; transition: transform 0.2s;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" width="40" 
-         style="filter: invert(0%);" 
-         onmouseover="this.style.transform='scale(1.2)';" 
-         onmouseout="this.style.transform='scale(1)';"/>
-  </a>
-</p>
+  <div style="width: 1px; background-color: #ccc; margin: 5px 0;"></div>
 
-<!-- Dark mode support for GitHub README -->
-<style>
-@media (prefers-color-scheme: dark) {
-  img[alt="GitHub"],
-  img[alt="LinkedIn"],
-  img[alt="Facebook"] {
-    filter: invert(100%);
-  }
-}
-</style>
+  <a href="https://www.facebook.com/mern.miraz" target="_blank" style="display: flex; align-items: center; text-decoration: none; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" width="30" style="filter: invert(0%);"/>
+  </a>
+
+</div>
 
 ---
 
