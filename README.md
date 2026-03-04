@@ -44,9 +44,17 @@ Check all projects here: [GitHub Repositories](https://github.com/mern-miraz)
 ---
 
 ### 📫 Connect with me
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="30"/>](https://github.com/mern-miraz)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="30"/>](https://www.linkedin.com/in/mern-miraz/)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" width="30"/>](https://www.facebook.com/mern.miraz)  
+<p align="left">
+  <a href="https://github.com/mern-miraz" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="40" style="margin-right:10px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mern-miraz/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="40" style="margin-right:10px;"/>
+  </a>
+  <a href="https://www.facebook.com/mern.miraz" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" width="40" style="margin-right:10px;"/>
+  </a>
+</p>
 
 ---
 
