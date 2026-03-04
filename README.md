@@ -36,10 +36,8 @@ Check all projects here: [GitHub Repositories](https://github.com/mern-miraz)
 ---
 
 ### 📈 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-miraz&show_icons=true&count_private=true)](https://github.com/mern-miraz)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mern-miraz&layout=compact)](https://github.com/mern-miraz)
 [![Streak Stats](https://streak-stats.demolab.com/?user=mern-miraz)](https://github.com/mern-miraz)  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=mern-miraz)](https://github.com/mern-miraz)
+
 
 ---
 
