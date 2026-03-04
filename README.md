@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Miraz
 #### MERN Stack Developer | Full-Stack Web Developer
 
-![MERN-Stack-Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I'm a **Full-Stack Developer** from **Bangladesh**, specializing in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. I build **scalable, responsive, and user-friendly web applications**, delivering **clean, maintainable code** while continuously exploring new technologies.  
 
 I have hands-on experience in **frontend development**, **backend APIs**, and **full-stack projects**, and I enjoy turning ideas into real, functional products.  
@@ -46,9 +44,9 @@ Check all projects here: [GitHub Repositories](https://github.com/mern-miraz)
 ---
 
 ### 📫 Connect with me
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/mern-miraz)  
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/mern-miraz/)  
-[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/mern.miraz)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="30"/>](https://github.com/mern-miraz)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="30"/>](https://www.linkedin.com/in/mern-miraz/)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" width="30"/>](https://www.facebook.com/mern.miraz)  
 
 ---
 
